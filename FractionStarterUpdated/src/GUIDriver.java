@@ -25,7 +25,7 @@ public class GUIDriver extends Application {
 	@Override
 	public void start(Stage stage) throws Exception {
 		Font font = new Font("Arial", 24);
-		Label title = new Label("Fraction Fun");
+		Label title = new Label("Fraction Friday");
 		title.setFont(font);
 
 		VBox vbox = new VBox(20);
